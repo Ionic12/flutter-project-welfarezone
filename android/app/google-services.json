@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "516374573363",
+    "firebase_url": "https://iot-project-welfarezone-month1-default-rtdb.firebaseio.com",
+    "project_id": "iot-project-welfarezone-month1",
+    "storage_bucket": "iot-project-welfarezone-month1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516374573363:android:ad9409dd1bf4f7e3484e46",
+        "android_client_info": {
+          "package_name": "com.example.welfarezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516374573363-ogh133somrdc9eono7rgcc8cg9akcaff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2mnskgb8ttqPQuOG86Vn7iDNEi9VYkLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516374573363-ogh133somrdc9eono7rgcc8cg9akcaff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
