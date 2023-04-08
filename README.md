@@ -16,5 +16,5 @@ Memberikan notifikasi: Aplikasi ini juga dapat memberikan notifikasi pada penggu
 
 Dengan menggunakan aplikasi monitoring suhu, kelembaban, gas, dan asap yang terhubung dengan perangkat IoT menggunakan sensor DHT22 dan MQ2, pengguna dapat dengan mudah memonitor kondisi lingkungan dalam ruangan dan mengambil tindakan yang diperlukan untuk menjaga kesehatan dan keamanan lingkungan dalam ruangan.
 </div>
-![alt text](https://github.com/Ionic12/flutter-project-welfarezone/blob/main/v%201.0.jpg)
+![alt text]([https://github.com/Ionic12/flutter-project-welfarezone/blob/main/v%201.0.jpg](https://github.com/Ionic12/flutter-project-welfarezone/blob/main/v%201.0.jpg))
 
