@@ -19,6 +19,6 @@ Dengan menggunakan aplikasi monitoring suhu, kelembaban, gas, dan asap yang terh
 
 ### Version 1.0
 
-<img src="https://github.com/Ionic12/flutter-project-welfarezone/blob/main/v%201.0.jpg">
+<img src="wellfarezone.png">
 
 
