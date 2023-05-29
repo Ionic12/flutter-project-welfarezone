@@ -26,6 +26,6 @@ Dengan menggunakan aplikasi monitoring suhu, kelembaban, gas, dan asap yang terh
 # WelfareZone Mobile View
   
 </div>
-<img src="welfarezone1.png" />
+<img src="welfarezone2.png" />
 
 
