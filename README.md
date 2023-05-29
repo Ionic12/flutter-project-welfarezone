@@ -19,6 +19,6 @@ Dengan menggunakan aplikasi monitoring suhu, kelembaban, gas, dan asap yang terh
 
 ### Version 1.0
 
-<img src="wellfarezone.png">
+<img src="welfarezone.png" />
 
 
