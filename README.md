@@ -1,4 +1,8 @@
-# Description
+<div align="center">
+  
+# WelfareZone
+  
+</div>
 <div align="justify">
 Aplikasi monitoring suhu, kelembaban, gas, dan asap yang terhubung dengan perangkat IoT menggunakan sensor DHT22 dan MQ2 adalah aplikasi yang bertujuan untuk memonitor kondisi lingkungan dalam ruangan dengan bantuan perangkat elektronik. Aplikasi ini menggunakan bahasa pemrograman Flutter untuk membuat antarmuka yang user-friendly dan mudah dioperasikan oleh pengguna.
 
@@ -17,8 +21,11 @@ Memberikan notifikasi: Aplikasi ini juga dapat memberikan notifikasi pada penggu
 Dengan menggunakan aplikasi monitoring suhu, kelembaban, gas, dan asap yang terhubung dengan perangkat IoT menggunakan sensor DHT22 dan MQ2, pengguna dapat dengan mudah memonitor kondisi lingkungan dalam ruangan dan mengambil tindakan yang diperlukan untuk menjaga kesehatan dan keamanan lingkungan dalam ruangan.
 </div>
 
-### Version 1.0
-
+<div align="center">
+  
+# WelfareZone Mobile View
+  
+</div>
 <img src="welfarezone.png" />
 
 
