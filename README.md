@@ -11,9 +11,7 @@
 
 </div>
 <div align="justify">
-Aplikasi monitoring suhu, kelembaban, gas, dan asap yang terhubung dengan perangkat IoT menggunakan sensor DHT22 dan MQ2 adalah aplikasi yang bertujuan untuk memonitor kondisi lingkungan dalam ruangan dengan bantuan perangkat elektronik. Aplikasi ini menggunakan bahasa pemrograman Flutter untuk membuat antarmuka yang user-friendly dan mudah dioperasikan oleh pengguna.
-<br><br>
-Sensor DHT22 digunakan untuk mengukur suhu dan kelembaban dalam ruangan, sedangkan sensor MQ2 digunakan untuk mendeteksi konsentrasi gas dan asap. Kedua sensor ini terhubung dengan perangkat IoT yang dapat terhubung dengan aplikasi monitoring melalui jaringan internet.
+Aplikasi monitoring suhu, kelembaban, gas, dan asap yang terhubung dengan perangkat IoT menggunakan sensor DHT22 dan MQ2 adalah aplikasi yang bertujuan untuk memonitor kondisi lingkungan dalam ruangan dengan bantuan perangkat elektronik. Aplikasi ini menggunakan bahasa pemrograman Flutter untuk membuat antarmuka yang user-friendly dan mudah dioperasikan oleh pengguna. Sensor DHT22 digunakan untuk mengukur suhu dan kelembaban dalam ruangan, sedangkan sensor MQ2 digunakan untuk mendeteksi konsentrasi gas dan asap. Kedua sensor ini terhubung dengan perangkat IoT yang dapat terhubung dengan aplikasi monitoring melalui jaringan internet.
 <br><br>
 Aplikasi monitoring ini memiliki beberapa fitur, antara lain :
 <br><br>
